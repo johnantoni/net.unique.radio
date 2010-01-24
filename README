@@ -1,0 +1,4 @@
+/* 
+ * patch to allow unique radio buttons inside a .NET repeater
+ * ..use code-behind to bind it to the controls
+ */
